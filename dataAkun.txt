@@ -1,0 +1,16 @@
+==========================
+ADMIN 
+ID 	 : thoriq
+Password : thoriq
+
+ID 	 : farid
+Password : farid
+==========================
+AGEN
+ID 	 : ajay
+Password : 123456
+==========================
+KARYAWAN
+ID 	 : kar1
+Password :123456
+==========================
